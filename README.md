@@ -1,4 +1,4 @@
-# A-novel-homology-based-framework-for-K-terminal-network-reliability-estimation-under-mixed-failure-modes
+# A-novel-homology-based-framework-for-K-terminal-network-reliability-estimation
 Code repository for the paper:  
 
 #### A novel homology-based framework for K-terminal network reliability estimation under mixed failure modes
